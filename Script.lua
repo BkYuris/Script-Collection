@@ -4,7 +4,9 @@ _G.EventList = {
 
     [2] = 'Prison Life Admin (Septex).lua',
 
-    [3] = 'Prison Life Admin (Err Natsuki).lua'
+    [3] = 'Prison Life Admin (Err Natsuki).lua',
+    
+    [4] = 'Headless (Client).lua'
 
 }
 
