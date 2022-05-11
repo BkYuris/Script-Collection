@@ -6,7 +6,11 @@ _G.EventList = {
 
     [3] = 'Prison Life Admin (Err Natsuki).lua',
     
-    [4] = 'Headless (Client).lua'
+    [4] = 'Headless (Client).lua',
+    
+    [5] = 'Left Korblox (Client).lua',
+    
+    [6] = 'Right Korblox (Client).lua'
 
 }
 
